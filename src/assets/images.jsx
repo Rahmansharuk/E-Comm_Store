@@ -1,0 +1,1 @@
+export const dragonImage = "https://ik.imagekit.io/zvyilu2w0/Dragon-ac6acde0-def1-11ef-8d3b-69192b9fb9f8.avif?"
